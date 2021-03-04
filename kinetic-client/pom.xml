@@ -192,7 +192,7 @@
 		<dependency>
 			<groupId>io.netty</groupId>
 			<artifactId>netty-transport-udt</artifactId>
-			<version>4.0.17.Final</version>
+			<version>4.1.59.Final</version>
 		</dependency>
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
